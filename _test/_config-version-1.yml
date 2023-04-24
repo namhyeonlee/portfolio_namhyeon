@@ -3,32 +3,21 @@ repository: sproogen/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
-phone: 07845248563
-website: sproogen.github.io/modern-resume-theme
+name: Namhyeon Lee
+title: Full-Stack Developer
+email: namhyeon128@gmail.com
+phone: +821034634569
+website: https://namhyeonlee.github.io/portfolio_namhyeon/
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+github_username: namhyeonlee
+linkedin_username: Namhyeon Lee
 
 # Additional icon links
 additional_links:
-- title: Test link
-  icon: fab fa-ello
-  url: sproogen.github.io/modern-resume-theme
+  - title: Test link
+    icon: fab fa-ello
+    url: sproogen.github.io/modern-resume-theme
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -66,7 +55,7 @@ footer_show_references: true
 data_dir: _test/_data
 
 include:
- - _test
+  - _test
 
 exclude:
   - vendor
@@ -76,4 +65,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
