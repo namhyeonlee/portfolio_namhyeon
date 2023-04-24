@@ -6,32 +6,21 @@ repository: sproogen/modern-resume-theme
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
-email_title: Email
-phone: 07845248563
+name: Namhyeon Lee
+title: Full-Stack Developer
+email: namhyeon128@gmail.com
 phone_title: Phone
-website: sproogen.github.io/modern-resume-theme
-website_title: Web
+phone: +821034634569
+phone_title: Phone
+website: https://namhyeonlee.github.io/portfolio_namhyeon/
+website_title: Portfolio
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+github_username: namhyeonlee
+linkedin_username: Namhyeon Lee
 
 # Additional icon links
 additional_links:
