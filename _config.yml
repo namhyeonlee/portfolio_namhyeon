@@ -81,14 +81,28 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: HectonProject
+        sub_title: Full-Stack Developer
+        caption: 06/2022 to Present
+        link: https://www.hectonproject.com/
         quote: >
-          Short description of the company (optional)
+          HectonProject is a healthcare company that provides Silver Care services, which include nursing home counseling service platforms and solution product for nursing homes management and hosipital.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - project1
+          ■ Project Name: solution product for nursing homes
+          ■ Workers: Project Manager(1), Service Prject Manager(1), F/E(3), B/E(3), UI Developer(1) Designer(1)
+          ■ Position: full-stack developer(F/E - 70%, B/E - 30%)
+          ■ Term : 2 years
+          ■ Contributions: 35%
+          ■ Env : AWS, GitLab, Jenkins, Sonarqube, Window11
+          ■ Tool : Eclipse, Visual Studio Code, MySQL Workbench
+          ■ Skill : Java, Spring framework, Nextjs, Typescript, SCSS, MySQL 
+          ■ Description
+          ○ Full-stack engineer on the team responsible for developing a solution product for nursing home management. Mainly focused on developing the
+          front-end using Next.js and Typescript. Also contributed to developing APIs using Java and MySQL.
+          ○ Performed static code analysis using Sonarqube to ensure clean and high- quality code standards.
+          ○ Collaborated with cross-functional teams, and implementing cutting-edge technologies to enhance user experience.
+          ○ Initially developed and led the conversion of paper documents using the Oz Report solution, which is a reporting tool. Converting paper documents is a main function of the solution.
   - title: Education
     layout: list
     content:
