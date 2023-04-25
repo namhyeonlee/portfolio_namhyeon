@@ -103,8 +103,8 @@ content:
           ○ Performed static code analysis using Sonarqube to ensure clean and high- quality code standards.<br>
           ○ Collaborated with cross-functional teams, and implementing cutting-edge technologies to enhance user experience.<br>
           ○ Initially developed and led the conversion of paper documents using the Oz Report solution, which is a reporting tool. Converting paper documents is a main function of the solution.<br>
-
-      - title: HectonProject
+      - layout: right
+        title: HectonProject
         sub_title: Full-Stack Developer
         caption: 06/2022 to Present
         link: https://www.hectonproject.com/
