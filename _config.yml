@@ -41,10 +41,9 @@ linkedin_username: www.linkedin.com/in/namhyeon-lee-94194a268
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
   Hello! I have developed a strong proficiency in <mark>JavaScript</mark>, <mark>HTML</mark>, <mark>CSS</mark>, and various frontend frameworks such as <mark>React</mark> and <mark>Next.js</mark> With three years of experience in the industry.
-Additionally, I possess experience in backend development using <mark>Node.js</mark>, <mark>Java</mark>, and <mark>MySQL</mark>, allowing me to develop full-stack applications and have a comprehensive understanding of how frontend and backend components work together.
-I have experience in agile development methodologies and version control systems such as Git as well.
+  Additionally, I possess experience in backend development using <mark>Node.js</mark>, <mark>Java</mark>, and <mark>MySQL</mark>, allowing me to develop full-stack applications and have a comprehensive understanding of how frontend and backend components work together.
+  I have experience in agile development methodologies and version control systems such as Git as well.
 
   Skills and Tools
     - React
