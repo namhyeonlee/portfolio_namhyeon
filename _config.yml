@@ -12,7 +12,8 @@ email: namhyeon128@gmail.com
 # email_title: Email (Email title override)
 phone: +821034634569
 # phone_title: Phone (Phone title override)
-website: https://namhyeonlee.github.io/portfolio_namhyeon/
+resume: https://drive.google.com/file/d/1cZNkoQhH4BAwUnxvgK8DyBKs4y9hlvhu/view?usp=sharing
+resume_title: resume
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -88,7 +89,7 @@ content:
         quote: >
           HectonProject is a healthcare company that provides Silver Care services, which include nursing home counseling service platforms and solution product for nursing homes management and hosipital.
         description: | # this will include new lines to allow paragraphs
-          - project1
+          - project1 <br>
           ■ Project Name: solution product for nursing homes
           ■ Workers: Project Manager(1), Service Prject Manager(1), F/E(3), B/E(3), UI Developer(1) Designer(1)
           ■ Position: full-stack developer(F/E - 70%, B/E - 30%)
