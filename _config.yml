@@ -12,8 +12,6 @@ email: namhyeon128@gmail.com
 # email_title: Email (Email title override)
 phone: +821034634569
 # phone_title: Phone (Phone title override)
-website: https://drive.google.com/file/d/1cZNkoQhH4BAwUnxvgK8DyBKs4y9hlvhu/view?usp=sharing
-website_title: resume
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -93,9 +91,8 @@ content:
           ■ Project Name: solution product for nursing homes<br>
           ■ Workers: Project Manager(1), Service Prject Manager(1), F/E(3), B/E(3), UI Developer(1) Designer(1)<br>
           ■ Position: full-stack developer(F/E - 70%, B/E - 30%)<br>
-          ■ Term : 2 years<br>
           ■ Contributions: 35%<br>
-          ■ Env : AWS, GitLab, Jenkins, Sonarqube, Window11<br>
+          ■ Env : AWS, GitLab, Jenkins, Sonarqube<br>
           ■ Tool : Eclipse, Visual Studio Code, MySQL Workbench<br>
           ■ Skill : Java, Spring framework, Nextjs, Typescript, SCSS, MySQL <br>
           ■ Description<br>
@@ -103,28 +100,70 @@ content:
           ○ Performed static code analysis using Sonarqube to ensure clean and high- quality code standards.<br>
           ○ Collaborated with cross-functional teams, and implementing cutting-edge technologies to enhance user experience.<br>
           ○ Initially developed and led the conversion of paper documents using the Oz Report solution, which is a reporting tool. Converting paper documents is a main function of the solution.<br>
-      - layout: right
-        title: HectonProject
-        sub_title: Full-Stack Developer
-        caption: 06/2022 to Present
-        link: https://www.hectonproject.com/
-        quote: >
-          HectonProject is a healthcare company that provides Silver Care services, which include nursing home counseling service platforms and solution product for nursing homes management and hosipital.
-        description: | # this will include new lines to allow paragraphs
-          - project1 <br>
-          ■ Project Name: solution product for nursing homes<br>
-          ■ Workers: Project Manager(1), Service Prject Manager(1), F/E(3), B/E(3), UI Developer(1) Designer(1)<br>
+
+          - project2 <br>
+          ■ Project Name: nursing home counseling service platform’s back-office system<br>
+          ■ Workers: Project Manager(1), Service Prject Manager(1), Full-Stack(3), UI Developer(1) Designer(1)<br>
           ■ Position: full-stack developer(F/E - 70%, B/E - 30%)<br>
-          ■ Term : 2 years<br>
           ■ Contributions: 35%<br>
-          ■ Env : AWS, GitLab, Jenkins, Sonarqube, Window11<br>
-          ■ Tool : Eclipse, Visual Studio Code, MySQL Workbench<br>
-          ■ Skill : Java, Spring framework, Nextjs, Typescript, SCSS, MySQL <br>
+          ■ Env : AWS, GitLab, Jenkins<br>
+          ■ Tool : Eclipse, MySQL Workbench<br>
+          ■ Skill : Java, Spring framework, Javascript, Angaular.js<br>
           ■ Description<br>
-          ○ Full-stack engineer on the team responsible for developing a solution product for nursing home management. Mainly focused on developing thefront-end using Next.js and Typescript. Also contributed to developing APIs using Java and MySQL.<br>
-          ○ Performed static code analysis using Sonarqube to ensure clean and high- quality code standards.<br>
-          ○ Collaborated with cross-functional teams, and implementing cutting-edge technologies to enhance user experience.<br>
-          ○ Initially developed and led the conversion of paper documents using the Oz Report solution, which is a reporting tool. Converting paper documents is a main function of the solution.<br>
+          ○ Full-stack engineer on the team responsible for developing the back-office system for the platform service. Primarily using Angular.js, Java, and MySQL.<br>
+          ○ Developed common front-end components and functions, as well as built a file upload system on the back-end.<br>
+          ○ Provided coaching to junior developers who joined the project.<br>
+      - layout: right
+        title: SoriZava(Freelancer Project)
+        sub_title: Front-end Developer
+        caption: 04/2022 to 05/2022
+        link: https://baronote.com/account/info
+        quote: >
+          Sorizava provide the voice record note service.
+        description: | # this will include new lines to allow paragraphs
+          - project3 <br>
+          ■ Project Name: voice record note service's homepage and back-office system<br>
+          ■ Workers: Project Manager(1), F/E(1), B/E(2)<br>
+          ■ Position: Front-end developer<br>
+          ■ Contributions: F/E 100%<br>
+          ■ Env : AWS, GitHub<br>
+          ■ Tool : Visual Studio Code, Pigma<br>
+          ■ Skill : React, Material-UI<br>
+          ■ Description<br>
+          ○ Responsible for developing the company's own service homepage and back-office system, primarily using React. Contributed 100% to front-end development.<br>
+          ○ Collaborated with cross-functional teams using the Pigma tool.<br>
+      - layout: right
+        title: Doctorringo
+        sub_title: Front-end Developer
+        caption: 01/2022 to 04/2022
+        link: https://baronote.com/account/info
+        quote: >
+          SDoctoringo provides Social Network Services app that shares a portfolio for artists.
+        description: | # this will include new lines to allow paragraphs
+          - project4 <br>
+          ■ Project Name: Tag&Tager Hybrid App<br>
+          ■ Workers: Project Manager(1), F/E(1), B/E(2), Designer(1)<br>
+          ■ Position: Front-end developer<br>
+          ■ Contributions: F/E 100%<br>
+          ■ Env : AWS, GitHub<br>
+          ■ Tool : Visual Studio Code, Pigma, Xcode<br>
+          ■ Skill : React Natvie, TypeScript, Redux-Toolkit, Styled-Components<br>
+          ■ Description<br>
+          ○ Developed the UI of the application.<br>
+          ○ Focused on development to enhance the customer experience of the app.<br>
+          ○ Managed the distribution of the app to both iOS and Android platforms, ensuring compatibility and optimal user experience.<br>
+
+          - project5 <br>
+          ■ Project Name: Tag&Tager Hybrid App service’s back-office system<br>
+          ■ Workers: Project Manager(1), F/E(1), B/E(2)<br>
+          ■ Position: Front-end developer<br>
+          ■ Contributions: F/E 100%<br>
+          ■ Env : AWS, GitHub<br>
+          ■ Tool : Visual Studio Code, Pigma<br>
+          ■ Skill : React, TypeScript, Redux-Toolkit, Material-UI<br>
+          ■ Description<br>
+          ○ Developed UI design of the application.<br>
+          ○ Played a key role in the front-end development of the back-office system, including the initial development of common components and functions to improve efficiency and consistency.<br>
   - title: Education
     layout: list
     content:
