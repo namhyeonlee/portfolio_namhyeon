@@ -217,12 +217,28 @@ content:
         caption: 09/2020 to 04/2021
         quote: >
         description: | # this will include new lines to allow paragraphs
+      - layout: top-left
+        title: IBAT
+        sub_title: English Language School in Ireland
+        caption: 05/2017 to 11/2017
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+      - layout: top-left
+        title: Deagu University
+        sub_title: Bachelor’s Social Woker
+        caption: 03/2012 to 08/2016
+        quote: >
+        description: | # this will include new lines to allow paragraphs
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      As a skilled and 3 years experienced developer with a passion for solving problems, I believe I would make a valuable addition to your team.
+      In my previous role at a web agency, I was responsible for a startup business platform where I contributed significantly to three main projects and two sub-projects within 10 months. I gained experience in frontend and backend development using Reactjs, Nodejs, MySQL, and hybrid apps. Additionally, I designed and built a database, demonstrating my ability to learn quickly and adapt to new challenges. <br>
+      At Dr.Lingo Co., I served as a React Native app developer and contributed to the front- end development of the app, which was released on both iOS and Android app markets. This experience allowed me to fully utilize React Native with TypeScript and helped me to enhance my front-end skills.
+      In my freelance projects, I contributed 100% to each project and successfully accomplished them independently, demonstrating my ability to work as an independent and self-motivated individual.<br>
+      Currently, I work at HectonProject, where I initially focused on developing the front-end of the company's solution product. However, due to my adaptability to various stacks and environments, I was given the opportunity to develop the API and be responsible for developing the back office, which manages the company's healthy platform. Additionally, I collaborated with senior developers to review and improve code, worked as a developer within an Agile process, and continuously improved my development skills.<br>
+      I am passionate about the process of problem-solving and eager to continue learning and growing as a full-stack developer. I am confident that my experience and skills
+      make me a strong candidate for this position, and I am excited about the opportunity to contribute to your team.
 
 # Footer
 footer_show_references: true
